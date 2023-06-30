@@ -1,4 +1,4 @@
-package lesson4.task2;
+package lesson3.task2;
 
 public class StudentWorker extends Worker {
     @Override
